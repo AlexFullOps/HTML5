@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Muito obrigado por estar aqui!
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Nome: Guia completo de HTML 5
+Autor: Alexandre cavalcanti (AlexFullOps)

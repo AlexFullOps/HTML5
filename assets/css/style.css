@@ -31,6 +31,15 @@ h5,
 h6 {
   font-family: "Raleway", sans-serif;
 }
+h3{
+  margin-top: 15px;
+  border-bottom: 1px solid red;
+  font-size: 20px;
+}
+
+strong{
+  color: rgb(255, 0, 0);
+}
 
 /*--------------------------------------------------------------
 # Back to top button
